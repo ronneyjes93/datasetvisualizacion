@@ -1,0 +1,3570 @@
+[
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 2,
+    "dia": 27
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 39,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2014,
+    "mes": 8,
+    "dia": 12
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 22,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2014,
+    "mes": 8,
+    "dia": 13
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 51,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 8,
+    "dia": 14
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2014,
+    "mes": 8,
+    "dia": 29
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 22,
+    "nivin_vic": "SIN DATO",
+    "anio": 2014,
+    "mes": 8,
+    "dia": 31
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 37,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2014,
+    "mes": 9,
+    "dia": 7
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 29,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 9,
+    "dia": 28
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 47,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 9,
+    "dia": 28
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 29,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 10,
+    "dia": 9
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 10,
+    "dia": 21
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 39,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 10,
+    "dia": 21
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 10,
+    "dia": 24
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2014,
+    "mes": 10,
+    "dia": 30
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 38,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2014,
+    "mes": 11,
+    "dia": 12
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 11,
+    "dia": 17
+  },
+  {
+    "provincia": "PASTAZA",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 11,
+    "dia": 21
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 33,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 11,
+    "dia": 22
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2014,
+    "mes": 11,
+    "dia": 27
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 3
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 28,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 6
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 29,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 8
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 25,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 20
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 23,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 21
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 32,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 23
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2014,
+    "mes": 12,
+    "dia": 25
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 41,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2015,
+    "mes": 1,
+    "dia": 4
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 28,
+    "nivin_vic": "SIN DATO",
+    "anio": 2015,
+    "mes": 1,
+    "dia": 14
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 31,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 2,
+    "dia": 10
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 35,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 2,
+    "dia": 14
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 3,
+    "dia": 5
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 26,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2015,
+    "mes": 3,
+    "dia": 7
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 49,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 3,
+    "dia": 8
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 3,
+    "dia": 20
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 38,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 3,
+    "dia": 23
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 28,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 3,
+    "dia": 27
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 21,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 4,
+    "dia": 1
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 4,
+    "dia": 5
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 36,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 4,
+    "dia": 30
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 28,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2015,
+    "mes": 5,
+    "dia": 7
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 37,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 5,
+    "dia": 17
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 23,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2015,
+    "mes": 5,
+    "dia": 17
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 38,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 5,
+    "dia": 20
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 5,
+    "dia": 25
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 21,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 5,
+    "dia": 26
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 6,
+    "dia": 1
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 18,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 6,
+    "dia": 26
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 6,
+    "dia": 30
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 7,
+    "dia": 3
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 7,
+    "dia": 12
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 7,
+    "dia": 14
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 7,
+    "dia": 19
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 26,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 7,
+    "dia": 19
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 31,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 7,
+    "dia": 26
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 17,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 8,
+    "dia": 5
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 15,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 8,
+    "dia": 8
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 28,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 8,
+    "dia": 14
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 18,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 8,
+    "dia": 14
+  },
+  {
+    "provincia": "NAPO",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 8,
+    "dia": 31
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 36,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2015,
+    "mes": 9,
+    "dia": 3
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 18,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 9,
+    "dia": 11
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 44,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 9,
+    "dia": 17
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 44,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 9,
+    "dia": 18
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 9,
+    "dia": 27
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 32,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 10,
+    "dia": 5
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 26,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 10,
+    "dia": 20
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 68,
+    "nivin_vic": "NINGUNO",
+    "anio": 2015,
+    "mes": 10,
+    "dia": 24
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 22,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 10,
+    "dia": 27
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 11,
+    "dia": 1
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 28,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 11,
+    "dia": 4
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 19,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 11,
+    "dia": 8
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 28,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 11,
+    "dia": 9
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 11,
+    "dia": 20
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 22,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 10
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 26,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 13
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 16
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 40,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 25
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 41,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 26
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 47,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 29
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 28,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2015,
+    "mes": 12,
+    "dia": 30
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 27,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 1
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 44,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 3
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 27,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 3
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 8
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 11
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 32,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 13
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 1,
+    "dia": 15
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 3
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 24,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 5
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 7
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 68,
+    "nivin_vic": "NINGUNO",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 7
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 41,
+    "nivin_vic": "NINGUNO",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 13
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 16,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 16
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 26,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 2,
+    "dia": 23
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 3,
+    "dia": 5
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 28,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 3,
+    "dia": 10
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 17,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 3,
+    "dia": 21
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 36,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 3,
+    "dia": 25
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 26,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 3,
+    "dia": 29
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 15,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 3,
+    "dia": 31
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 1
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 16,
+    "nivin_vic": "NINGUNO",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 2
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 15
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 54,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 16
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 38,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 22
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 46,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 22
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 25
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 16,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 5,
+    "dia": 29
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 31,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2016,
+    "mes": 6,
+    "dia": 2
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 30,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 6,
+    "dia": 9
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 36,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 6,
+    "dia": 13
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 6,
+    "dia": 15
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 39,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 6,
+    "dia": 26
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 6,
+    "dia": 29
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 7,
+    "dia": 8
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 35,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 7,
+    "dia": 17
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 27,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 7,
+    "dia": 26
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 34,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 8,
+    "dia": 2
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 34,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2016,
+    "mes": 8,
+    "dia": 11
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 47,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 8,
+    "dia": 21
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 33,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 8,
+    "dia": 22
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 2
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 3
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 32,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 9
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 11
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 30,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 12
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 14
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 35,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 17
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 9,
+    "dia": 18
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 10,
+    "dia": 2
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 46,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2016,
+    "mes": 10,
+    "dia": 10
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 36,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 10,
+    "dia": 16
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 10,
+    "dia": 23
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 10,
+    "dia": 26
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 30,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 1
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 52,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 4
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 5
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 18,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 11
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 45,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 16
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 28,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 26
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 36,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2016,
+    "mes": 11,
+    "dia": 26
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 33,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 12,
+    "dia": 5
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 39,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 12,
+    "dia": 11
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 43,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2016,
+    "mes": 12,
+    "dia": 14
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2016,
+    "mes": 12,
+    "dia": 16
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 30,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 1
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 27,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 3
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 4
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 24,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 7
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 7
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 7
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 23,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 10
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 15,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 10
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 22,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 11
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 40,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 13
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 15
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 26,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 18
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 28,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 18
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 44,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 22
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 46,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 28
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 44,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 1,
+    "dia": 29
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 44,
+    "nivin_vic": "NINGUNO",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 3
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 44,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 12
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 45,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 12
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 30,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 12
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 29,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 16
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 52,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 19
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 23,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 19
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 30,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 23
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 36,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 25
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 30,
+    "nivin_vic": "NINGUNO",
+    "anio": 2017,
+    "mes": 2,
+    "dia": 27
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 33,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 3
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 47,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 4
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 11
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 37,
+    "nivin_vic": "NINGUNO",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 11
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 23,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 13
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 35,
+    "nivin_vic": "NINGUNO",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 25
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 29,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 28
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 38,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 29
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 3,
+    "dia": 31
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 53,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 4,
+    "dia": 1
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 41,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 4,
+    "dia": 10
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 4,
+    "dia": 18
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 4,
+    "dia": 27
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 4,
+    "dia": 30
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 22,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 1
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 39,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 12
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 23,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 12
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 15,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 12
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 37,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 24
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 51,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 27
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 19,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 5,
+    "dia": 30
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 4
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 23,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 7
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 26,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 8
+  },
+  {
+    "provincia": "ZAMORA CHINCHIPE",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 10
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 16
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 23,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 17
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 27,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 20
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 55,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 21
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 13,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 21
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 6,
+    "dia": 29
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 1
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 15,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 4
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 26,
+    "nivin_vic": "NINGUNO",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 7
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 17
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 48,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 20
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 32,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 21
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 52,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 21
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 26,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 7,
+    "dia": 29
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 43,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 4
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 5
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 18,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 6
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 10
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 24,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 17
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 18
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 46,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 20
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 28,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 22
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 33,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 8,
+    "dia": 28
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 28,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 9,
+    "dia": 1
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 9,
+    "dia": 10
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 41,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 9,
+    "dia": 13
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 34,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 9,
+    "dia": 23
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 13,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 9,
+    "dia": 26
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 23,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 10,
+    "dia": 5
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 10,
+    "dia": 8
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 10,
+    "dia": 15
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 10,
+    "dia": 20
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 45,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2017,
+    "mes": 11,
+    "dia": 2
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 19,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 11,
+    "dia": 10
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 22,
+    "nivin_vic": "SIN DATO",
+    "anio": 2017,
+    "mes": 11,
+    "dia": 23
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 22,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 11,
+    "dia": 25
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 53,
+    "nivin_vic": "SIN DATO",
+    "anio": 2017,
+    "mes": 11,
+    "dia": 26
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 36,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 11,
+    "dia": 30
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 49,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 9
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 24,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 9
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 10
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 31,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 11
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 34,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 15
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 10,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 15
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 38,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 18
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 20
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 46,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 21
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 36,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 23
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 26
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 29,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2017,
+    "mes": 12,
+    "dia": 31
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 16,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 1
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 32,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 3
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 22,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 6
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 39,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 8
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 33,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 18
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 30,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 20
+  },
+  {
+    "provincia": "MORONA SANTIAGO",
+    "edad_vic": 55,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 29
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 41,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 1,
+    "dia": 29
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 21,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2018,
+    "mes": 2,
+    "dia": 8
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 35,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 2,
+    "dia": 9
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 2,
+    "dia": 13
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 27,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 2,
+    "dia": 15
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 2,
+    "dia": 21
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 17,
+    "nivin_vic": "SIN DATO",
+    "anio": 2018,
+    "mes": 2,
+    "dia": 25
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 33,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 3,
+    "dia": 4
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 47,
+    "nivin_vic": "SIN DATO",
+    "anio": 2018,
+    "mes": 3,
+    "dia": 11
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 40,
+    "nivin_vic": "SIN DATO",
+    "anio": 2018,
+    "mes": 3,
+    "dia": 13
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 71,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 3,
+    "dia": 22
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 3,
+    "dia": 23
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 42,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 3
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 8
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 48,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 10
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 47,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 11
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 27,
+    "nivin_vic": "SIN DATO",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 15
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 38,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 16
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 32,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 4,
+    "dia": 23
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 28,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 2
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 21,
+    "nivin_vic": "SIN DATO",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 2
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 64,
+    "nivin_vic": "SIN DATO",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 4
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 51,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 11
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 19,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 13
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 17
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 0,
+    "nivin_vic": "NINGUNO",
+    "anio": 2018,
+    "mes": 5,
+    "dia": 17
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 23,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 6,
+    "dia": 3
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 46,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 6,
+    "dia": 3
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 33,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 6,
+    "dia": 10
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 47,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2018,
+    "mes": 6,
+    "dia": 12
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 48,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 6,
+    "dia": 21
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 43,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 6,
+    "dia": 28
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 29,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 7,
+    "dia": 3
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 32,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 7,
+    "dia": 7
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 33,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 8,
+    "dia": 17
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 24,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 8,
+    "dia": 25
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 33,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 8,
+    "dia": 25
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 36,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 8,
+    "dia": 28
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 51,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 9,
+    "dia": 8
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 36,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 9,
+    "dia": 13
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 51,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 9,
+    "dia": 13
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 28,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2018,
+    "mes": 10,
+    "dia": 2
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 34,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 10,
+    "dia": 7
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 41,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 10,
+    "dia": 15
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 30,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 10,
+    "dia": 28
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2018,
+    "mes": 11,
+    "dia": 5
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 38,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 11,
+    "dia": 23
+  },
+  {
+    "provincia": "MORONA SANTIAGO",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 11,
+    "dia": 26
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 12,
+    "dia": 6
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 51,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 12,
+    "dia": 9
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2018,
+    "mes": 12,
+    "dia": 27
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2018,
+    "mes": 12,
+    "dia": 29
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2018,
+    "mes": 12,
+    "dia": 31
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 40,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 1,
+    "dia": 1
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 1,
+    "dia": 6
+  },
+  {
+    "provincia": "CARCHI",
+    "edad_vic": 43,
+    "nivin_vic": "SIN DATO",
+    "anio": 2019,
+    "mes": 1,
+    "dia": 10
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 26,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 1,
+    "dia": 19
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 2,
+    "dia": 2
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 2,
+    "dia": 3
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 42,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2019,
+    "mes": 2,
+    "dia": 4
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 47,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 2,
+    "dia": 8
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 30,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2019,
+    "mes": 2,
+    "dia": 25
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 1
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 29,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 8
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 35,
+    "nivin_vic": "SIN DATO",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 20
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 59,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 20
+  },
+  {
+    "provincia": "CARCHI",
+    "edad_vic": 29,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 20
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 24,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 21
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 3,
+    "dia": 26
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 4,
+    "dia": 4
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 4,
+    "dia": 16
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 66,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 4,
+    "dia": 19
+  },
+  {
+    "provincia": "PASTAZA",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 4,
+    "dia": 27
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 4,
+    "dia": 27
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 32,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 4,
+    "dia": 29
+  },
+  {
+    "provincia": "MORONA SANTIAGO",
+    "edad_vic": 58,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 5,
+    "dia": 8
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 38,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 5,
+    "dia": 14
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 5,
+    "dia": 15
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 20,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 5,
+    "dia": 20
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 5,
+    "dia": 23
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 5,
+    "dia": 28
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 18,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 2
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 36,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 17
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 19,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 17
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 19
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 28,
+    "nivin_vic": "SIN DATO",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 21
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 23
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 23,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 24
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 6,
+    "dia": 26
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 35,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 7,
+    "dia": 8
+  },
+  {
+    "provincia": "SANTA ELENA",
+    "edad_vic": 23,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 7,
+    "dia": 18
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 39,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2019,
+    "mes": 7,
+    "dia": 30
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 33,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 8,
+    "dia": 10
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 17,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 8,
+    "dia": 23
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 56,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 1
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 15,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 5
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 55,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 6
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 64,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 9
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 13
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 18
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 68,
+    "nivin_vic": "NINGUNO",
+    "anio": 2019,
+    "mes": 9,
+    "dia": 28
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 9
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 11
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 28,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 16
+  },
+  {
+    "provincia": "MORONA SANTIAGO",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 18
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 40,
+    "nivin_vic": "NINGUNO",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 20
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 42,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 22
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 51,
+    "nivin_vic": "SECUNDARIA",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 27
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 39,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 28
+  },
+  {
+    "provincia": "LOJA",
+    "edad_vic": 35,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 10,
+    "dia": 28
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 11,
+    "dia": 2
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 46,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 11,
+    "dia": 3
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 42,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 11,
+    "dia": 6
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 44,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2019,
+    "mes": 11,
+    "dia": 24
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 12,
+    "dia": 1
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 23,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 12,
+    "dia": 8
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 23,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 12,
+    "dia": 12
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 45,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 12,
+    "dia": 23
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 46,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2019,
+    "mes": 12,
+    "dia": 27
+  },
+  {
+    "provincia": "ORELLANA",
+    "edad_vic": 31,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 1,
+    "dia": 1
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 34,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2020,
+    "mes": 1,
+    "dia": 1
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 60,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 1,
+    "dia": 11
+  },
+  {
+    "provincia": "MORONA SANTIAGO",
+    "edad_vic": 51,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 1,
+    "dia": 20
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 18,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 1,
+    "dia": 25
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 22,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 2,
+    "dia": 1
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 2,
+    "dia": 10
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 2,
+    "dia": 25
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 2,
+    "dia": 27
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 33,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 3,
+    "dia": 1
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 23,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 3,
+    "dia": 3
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 22,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 4,
+    "dia": 7
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 28,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 4,
+    "dia": 14
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 29,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 4,
+    "dia": 25
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 4,
+    "dia": 27
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 53,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2020,
+    "mes": 4,
+    "dia": 30
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 41,
+    "nivin_vic": "PRIMARIA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 5
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 20,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 8
+  },
+  {
+    "provincia": "GALAPAGOS",
+    "edad_vic": 31,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 11
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 35,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 13
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 34,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 17
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 31,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 19
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 26,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 19
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 33,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 20
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 39,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 27
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 19,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 31
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 29,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 5,
+    "dia": 31
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 38,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 6,
+    "dia": 9
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 49,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 6,
+    "dia": 11
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 24,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 6,
+    "dia": 12
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 6,
+    "dia": 12
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 69,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 6,
+    "dia": 17
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 38,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 7,
+    "dia": 11
+  },
+  {
+    "provincia": "BOLIVAR",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 7,
+    "dia": 11
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 75,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 7,
+    "dia": 15
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 30,
+    "nivin_vic": "SUPERIOR",
+    "anio": 2020,
+    "mes": 7,
+    "dia": 16
+  },
+  {
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "edad_vic": 39,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 7,
+    "dia": 25
+  },
+  {
+    "provincia": "CARCHI",
+    "edad_vic": 31,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 6
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 21,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 7
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 28,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 10
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 33,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 21
+  },
+  {
+    "provincia": "EL ORO",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 21
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 0,
+    "nivin_vic": "NINGUNO",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 24
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 26
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 36,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 28
+  },
+  {
+    "provincia": "MORONA SANTIAGO",
+    "edad_vic": 5,
+    "nivin_vic": "NINGUNO",
+    "anio": 2020,
+    "mes": 8,
+    "dia": 29
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 1
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 25,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 7
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 27,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 12
+  },
+  {
+    "provincia": "COTOPAXI",
+    "edad_vic": 42,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 25
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 24,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 26
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 27
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 41,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 9,
+    "dia": 30
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 22,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 10,
+    "dia": 14
+  },
+  {
+    "provincia": "CAÑAR",
+    "edad_vic": 31,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 10,
+    "dia": 17
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 10,
+    "dia": 20
+  },
+  {
+    "provincia": "CHIMBORAZO",
+    "edad_vic": 4,
+    "nivin_vic": "NINGUNA",
+    "anio": 2020,
+    "mes": 10,
+    "dia": 24
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 10,
+    "dia": 26
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 32,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 10,
+    "dia": 29
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 28,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 1
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 25,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 2
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 24,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 2
+  },
+  {
+    "provincia": "AZUAY",
+    "edad_vic": 38,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 3
+  },
+  {
+    "provincia": "ESMERALDAS",
+    "edad_vic": 59,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 3
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 19,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 7
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 21,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 7
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 43,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 12
+  },
+  {
+    "provincia": "TUNGURAHUA",
+    "edad_vic": 37,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 13
+  },
+  {
+    "provincia": "SUCUMBIOS",
+    "edad_vic": 30,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 14
+  },
+  {
+    "provincia": "LOS RIOS",
+    "edad_vic": 35,
+    "nivin_vic": "BACHILLERATO",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 26
+  },
+  {
+    "provincia": "PICHINCHA",
+    "edad_vic": 18,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 11,
+    "dia": 28
+  },
+  {
+    "provincia": "IMBABURA",
+    "edad_vic": 50,
+    "nivin_vic": "EDUCACION BASICA",
+    "anio": 2020,
+    "mes": 12,
+    "dia": 6
+  },
+  {
+    "provincia": "MANABI",
+    "edad_vic": 32,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 12,
+    "dia": 9
+  },
+  {
+    "provincia": "GUAYAS",
+    "edad_vic": 33,
+    "nivin_vic": "SIN DATO",
+    "anio": 2020,
+    "mes": 12,
+    "dia": 12
+  }
+]
