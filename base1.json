@@ -1,34 +1,30 @@
 [
       {
-         "year":"2014",
+         "year":2014,
          "totalFemicidios":26
       },
       {
-         "year":"2015",
+         "year":2015,
          "totalFemicidios":54
       },
       {
-         "year":"2016",
+         "year":2016,
          "totalFemicidios":65
       },
       {
-         "year":"2017",
+         "year":2017,
          "totalFemicidios":101
       },
       {
-         "year":"2018",
+         "year":2018,
          "totalFemicidios":60
       },
       {
-         "year":"2019",
+         "year":2019,
          "totalFemicidios":66
       },
       {
-         "year":"2020",
+         "year":2020,
          "totalFemicidios":74
-      },
-      {
-         "year":"Total general",
-         "totalFemicidios":446
       }
 ]
